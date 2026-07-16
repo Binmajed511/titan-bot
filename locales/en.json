@@ -1,0 +1,7 @@
+{
+  "ping_response": "🏓 Pong! Titan Bot is working efficiently and your preferred language is English.",
+  "no_permission": "❌ You do not have enough permissions to use this command.",
+  "bot_language_changed": "✅ Bot language has been successfully changed to: **English**.",
+  "mute_success": "🔇 {user} has been successfully muted for {time}.",
+  "unmute_success": "🔊 {user} has been successfully unmuted."
+}
